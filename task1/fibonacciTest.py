@@ -1,4 +1,4 @@
-def fibonacciTest():
+def fibonacciGenerate():
     message = "yuk coba generate disini: "
     inputGenerate = int(input(message))
     
@@ -17,4 +17,4 @@ def fibonacciTest():
 
 
 print("Hai selamat datang di program fibonacci")
-fibonacciTest()
+fibonacciGenerate()
